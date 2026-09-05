@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "repo": "FMCG-Sales-Supply-Chain-Dashboard",
+      "description": "An interactive 3-page Power BI dashboard analyzing 190K FMCG transactions (2022–2024) — sales performance, supply chain, and forecasting, all in one view.."
+    },
+    {
+      "repo": "supply-chain-analytics-dashboard",
+      "description": "An analytics dashboard tracking supply chain metrics to surface operational bottlenecks and trends."
+    },
+    {
+      "repo": "Sales-Trend-Analysis-Using-Aggregations",
+      "description": "A sales trend analysis project using aggregation techniques to uncover patterns in transaction data."
+    },
+    {
+      "repo": "Sentiment-Analysis-of-Local-Business-Reviews",
+      "description": "A sentiment analysis project mining local business reviews to classify customer feedback."
+    }
+  ]
+}
